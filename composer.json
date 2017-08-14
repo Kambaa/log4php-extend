@@ -1,0 +1,15 @@
+{
+  "name": "kambaa/log4php-extend",
+  "description": "Trying to extend log4php appenders and stuff",
+  "minimum-stability": "dev",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Yusuf Gündüz",
+      "email": "yusuf.gunduz@gmail.com"
+    }
+  ],
+  "require": {
+    "apache/log4php": "2.3.0"
+  }
+}
